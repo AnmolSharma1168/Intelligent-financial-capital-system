@@ -1,6 +1,10 @@
 fastapi
 uvicorn
+pydantic
+numpy
 pandas
 scikit-learn
 joblib
-google-generativeai
+reportlab
+plotly
+python-dotenv
