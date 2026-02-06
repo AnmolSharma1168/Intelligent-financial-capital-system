@@ -8,3 +8,4 @@ joblib
 reportlab
 plotly
 python-dotenv
+google-generativeai
